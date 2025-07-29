@@ -1,1 +1,2 @@
-simple random todo list app
+simple random todo list app 
+npm
